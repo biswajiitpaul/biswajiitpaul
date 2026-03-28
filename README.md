@@ -12,7 +12,7 @@
 - 🎓 I'm a **BCA Student** passionate about coding
 - 🌱 I'm currently learning **Python & Web Development**
 - 💼 I'm **open to internships & opportunities**
-- 📫 Reach me at: **your@email.com**
+- 📫 Reach me at: **biswa02paul@gmail.com**
 - 📍 Based in **Kolkata, India**
 - ⚡ Fun fact: **I love turning ideas into reality through code!**
 
