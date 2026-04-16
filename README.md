@@ -9,12 +9,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **BCA Student** passionate about coding
-- 🌱 I'm currently learning **Python & Web Development**
-- 💼 I'm **open to internships & opportunities**
+- 🎓 I'm a **BCA Student** passionate about building software solutions.
+- 🌱 I'm currently deep-diving into **Python & Web Development**.
+- 💼 I'm **open to internships & opportunities** where I can contribute and learn.
 - 📫 Reach me at: **biswa02paul@gmail.com**
 - 📍 Based in **Kolkata, India**
-- ⚡ Fun fact: **I love turning ideas into reality through code!**
+- ⚡ Fun fact: **I love turning caffeine into code and ideas into reality!**
 
 ---
 
@@ -24,19 +24,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biswajiitpaul&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswajiitpaul&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
