@@ -1,49 +1,43 @@
-<h1 align="center">Hi 👋, I'm Biswajit Paul</h1>
-<h3 align="center">A Passionate BCA Student & Aspiring Developer from India</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=BCA+Student+%F0%9F%8E%93;Passionate+Coder+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+# Biswajit Paul
 
----
+BCA Student · Web Developer · Kolkata, India
 
-### 👨‍💻 About Me
+Building web projects and learning through hands-on coding and hackathons. Open to internships.
 
-- 🎓 I'm a **BCA Student** passionate about building software solutions.
-- 🌱 I'm currently deep-diving into **Python & Web Development**.
-- 💼 I'm **open to internships & opportunities** where I can contribute and learn.
-- 📫 Reach me at: **biswa02paul@gmail.com**
-- 📍 Based in **Kolkata, India**
-- ⚡ Fun fact: **I love turning caffeine into code and ideas into reality!**
+</div>
 
----
+<br/>
 
-### 🛠️ Languages & Tools
+### Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" />
 
-### 🤝 Connect With Me
+</div>
 
-<p align="left">
-  <a href="https://linkedin.com/in/biswajitpaul" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:biswa02paul@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
----
+### GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biswajiitpaul&label=Profile%20views&color=0e75b6&style=flat" alt="biswajiitpaul" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=biswajiitpaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajiitpaul&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=biswajiitpaul&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+### Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/biswajitpaul"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:biswa02paul@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+</div>
