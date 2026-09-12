@@ -8,6 +8,12 @@ Building web projects and learning through hands-on coding and hackathons. Open 
 
 </div>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/biswajiitpaul/biswajiitpaul/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
 <br/>
 
 ### Tech Stack
@@ -24,10 +30,7 @@ Building web projects and learning through hands-on coding and hackathons. Open 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=biswajiitpaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswajiitpaul&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=biswajiitpaul&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=biswajiitpaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
